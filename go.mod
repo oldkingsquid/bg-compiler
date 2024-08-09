@@ -3,7 +3,7 @@ module github.com/Squwid/bg-compiler
 go 1.21.0
 
 require (
-	github.com/docker/docker v27.0.3+incompatible
+	github.com/docker/docker v27.1.1+incompatible
 	github.com/google/uuid v1.6.0
 	github.com/gorilla/mux v1.8.1
 	github.com/opencontainers/image-spec v1.1.0
