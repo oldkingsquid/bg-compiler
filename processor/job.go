@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Squwid/bg-compiler/docker"
-	"github.com/Squwid/bg-compiler/flags"
+	"github.com/oldkingsquid/bg-compiler/docker"
+	"github.com/oldkingsquid/bg-compiler/flags"
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
 )

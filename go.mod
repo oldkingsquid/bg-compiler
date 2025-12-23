@@ -1,4 +1,4 @@
-module github.com/Squwid/bg-compiler
+module github.com/oldkingsquid/bg-compiler
 
 go 1.21.0
 

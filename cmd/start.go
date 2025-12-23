@@ -1,10 +1,10 @@
 package cmd
 
 import (
-	"github.com/Squwid/bg-compiler/docker"
-	"github.com/Squwid/bg-compiler/flags"
-	"github.com/Squwid/bg-compiler/processor"
-	"github.com/Squwid/bg-compiler/webserver"
+	"github.com/oldkingsquid/bg-compiler/docker"
+	"github.com/oldkingsquid/bg-compiler/flags"
+	"github.com/oldkingsquid/bg-compiler/processor"
+	"github.com/oldkingsquid/bg-compiler/webserver"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

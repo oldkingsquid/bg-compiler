@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/Squwid/bg-compiler/flags"
+	"github.com/oldkingsquid/bg-compiler/flags"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

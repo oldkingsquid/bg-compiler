@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Squwid/bg-compiler/cmd"
+	"github.com/oldkingsquid/bg-compiler/cmd"
 	"github.com/sirupsen/logrus"
 )
 

@@ -3,7 +3,7 @@ package processor
 import (
 	"fmt"
 
-	"github.com/Squwid/bg-compiler/flags"
+	"github.com/oldkingsquid/bg-compiler/flags"
 	"github.com/sirupsen/logrus"
 )
 

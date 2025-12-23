@@ -5,8 +5,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/Squwid/bg-compiler/flags"
 	"github.com/docker/docker/pkg/stdcopy"
+	"github.com/oldkingsquid/bg-compiler/flags"
 )
 
 type LogWriter struct {

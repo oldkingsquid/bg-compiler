@@ -205,7 +205,7 @@ If installing by source, Go is required to build the compiler.
 Clone the repo
 
 ```sh
-git clone https://github.com/Squwid/bg-compiler.git
+git clone https://github.com/oldkingsquid/bg-compiler.git
 ```
 
 Install the compiler
@@ -221,7 +221,7 @@ bg-compiler start
 
 ### By Binary
 
-Download the latest release from the [releases page](https://github.com/Squwid/bg-compiler/releases)
+Download the latest release from the [releases page](https://github.com/oldkingsquid/bg-compiler/releases)
 
 Run the binary
 

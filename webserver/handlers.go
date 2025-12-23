@@ -6,7 +6,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/Squwid/bg-compiler/processor"
+	"github.com/oldkingsquid/bg-compiler/processor"
 	"github.com/sirupsen/logrus"
 )
 
