@@ -57,7 +57,7 @@ func Init() {
 	}
 
 	c, err := client.NewClientWithOpts(client.FromEnv,
-		client.WithAPIVersionNegotiation())
+		client.WithVersion("1.44"))
 	if err != nil {
 		logrus.WithError(err).Fatalf("Error creating docker client")
 	}
